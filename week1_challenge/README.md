@@ -16,7 +16,7 @@ created. By filtering out the target campaigns (theater), it can be seen that wh
 that fail to reach their goals remain static over the year, the number of successful campaigns drastically
 goes up during May, with a gradual decline in success until next May. Campaigns started during the holidays
 seem to be both few in number and low in success.
-![Outcomes vs Launch Date](/resources/Theater_Outcomes_vs_Launch.png)
+![Outcomes vs Launch Date](./resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 	By charting out "plays" campaigns based on their funding goals, the graph shown below can be created. Contrary
@@ -24,7 +24,7 @@ to the entire theater category, there were no cancelled play projects. With the 
 percentage chance of their success, the correlation of goal to success is not clear. The clearest takeaways are
 that plays that have low-ambition goals tend to do better consistently than high-value productions, and plays
 that aim for >$50000 goals are nearly always failures.
-![Outcomes vs Goal](/resources/Outcomes_vs_Goals.png)
+![Outcomes vs Goal](./resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 	The biggest issue with being able to provice a ocncrete analysis of kickstarter plays is the small data set.
